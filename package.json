@@ -1,0 +1,33 @@
+{
+  "name": "react-flux-cart",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "babel": "^5.8.34",
+    "babel-loader": "^5.4.0",
+    "bluebird": "^3.1.5",
+    "flux": "^2.0.1",
+    "form-serialize": "0.7.0",
+    "history": "^1.17.0",
+    "jquery": "^2.2.0",
+    "key-mirror": "^1.0.1",
+    "lodash": "^4.0.1",
+    "object-assign": "^2.0.0",
+    "react": "^0.14.2",
+    "react-bootstrap": "^0.28.2",
+    "react-dom": "^0.14.2",
+    "react-mixin": "^3.0.3",
+    "react-router": "^2.0.0-rc4",
+    "react-tween-state": "0.0.5",
+    "sort-by": "^1.1.0",
+    "webpack": "^1.7.3",
+    "webpack-dev-server": "^1.8.0",
+    "react-responsive-carousel": "^3.0.9",
+    "react-router-component": "^0.27.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Krishna Chaitanya",
+  "license": "MIT"
+}
